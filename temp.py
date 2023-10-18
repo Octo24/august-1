@@ -1,4 +1,5 @@
 def celsius_to_fahrenheit(celsius):
+    """ given a celsius value return the conversion"""
     fahrenheit = celsius * 9/5 + 32
     return fahrenheit
 
